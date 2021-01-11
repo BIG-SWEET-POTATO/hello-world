@@ -1,2 +1,2 @@
 # hello-world
-新建
+I am a freshman here
